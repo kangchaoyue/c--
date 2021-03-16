@@ -15,16 +15,20 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="二维数组.cpp">
+    <ClCompile Include="计算圆的面积.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="swap.cpp">
+    <ClCompile Include="问候.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="swap.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
+    <ClCompile Include="重载函数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="设计一个名为Rectangle的矩形类.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="6-2 Point类的声明和实现.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

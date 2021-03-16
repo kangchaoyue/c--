@@ -15,16 +15,23 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="二维数组.cpp">
+    <ClCompile Include="比较运算符重载.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="swap.cpp">
+    <ClCompile Include="..\..\类对象作为类成员\Debug\++的重载.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="swap.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
+    <ClCompile Include="..\..\类对象作为类成员\Debug\左移运算符的重载.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\类对象作为类成员\Debug\赋值运算符的重载.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="+重载.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="函数调用运算符重载.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

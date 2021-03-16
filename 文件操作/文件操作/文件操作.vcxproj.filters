@@ -15,16 +15,17 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="二维数组.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="swap.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="swap.h">
+    <ClCompile Include="读文件-文本文件.cpp">
       <Filter>头文件</Filter>
-    </ClInclude>
+    </ClCompile>
+    <ClCompile Include="写入文件-文本文件.cpp">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="写文件-二进制文件.cpp">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="读文件-二进制文件.cpp">
+      <Filter>头文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

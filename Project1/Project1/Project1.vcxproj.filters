@@ -15,16 +15,11 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="二维数组.cpp">
+    <ClCompile Include="源.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="swap.cpp">
+    <ClCompile Include="源1.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="swap.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
   </ItemGroup>
 </Project>

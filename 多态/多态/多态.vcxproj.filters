@@ -15,16 +15,17 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="二维数组.cpp">
+    <ClCompile Include="多态.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="swap.cpp">
+    <ClCompile Include="多态实现函数晚绑定.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="swap.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
+    <ClCompile Include="多态计算机.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="纯虚函数和抽象类.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
